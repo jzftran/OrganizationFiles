@@ -36,9 +36,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
-   inkscape:zoom="0.50511365"
-   inkscape:cx="1200.7199"
-   inkscape:cy="137.5928"
+   inkscape:zoom="0.81476202"
+   inkscape:cx="559.05895"
+   inkscape:cy="122.12155"
    inkscape:window-width="1610"
    inkscape:window-height="986"
    inkscape:window-x="0"
@@ -102,7 +102,7 @@
          id="tspan817"
          x="23.623638"
          y="149.61961"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;stroke-width:0.264583px">Contact:</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;stroke-width:0.264583px">Contact :</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:125%;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="126.51205"
@@ -111,7 +111,7 @@
          sodipodi:role="line"
          x="126.51205"
          y="137.27878"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.264583px"
          id="tspan833">Joseph Salmon</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -122,7 +122,7 @@
          id="tspan837"
          x="128.87453"
          y="157.25534"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;stroke-width:0.264583px">joseph.salmon@inria.fr</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;stroke-width:0.264583px">joseph.salmon@inria.fr</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.54526"
@@ -135,7 +135,7 @@
          id="tspan905"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold'"
    id="tspan1018">GitHub:</tspan> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"
    id="tspan839">@josephsalmon</tspan></tspan></text><path
        inkscape:connector-curvature="0"
        style="clip-rule:evenodd;fill:#1b1f23;fill-rule:evenodd;stroke-width:1.19784"
@@ -154,7 +154,7 @@
        x="129.14757"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;stroke-width:0.264583px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;stroke-width:0.264583px"
          y="169.11478"
          x="129.14757"
          id="tspan844"
@@ -195,5 +195,5 @@
          id="tspan905-7"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold'"
    id="tspan1018-5">Mastodon:</tspan> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"
    id="tspan839-3">@josephsalmon@sigmoid.social</tspan></tspan></text></g></g></svg>
