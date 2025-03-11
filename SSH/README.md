@@ -7,23 +7,36 @@
 - Type the command in a terminal and enter the password
 
 ```bash
+# Execute this command locally to connect to the remote machine
 ssh <login>@<machine_name>.imag.umontpellier.fr
 ```
 where `<login>` is your login and `<machine_name>` is the name of the machine (e.g., `oban`).
 
-- To avoid retyping the password for each connection, you can generate an SSH key (first check if you already have one: look for a file with the .pub extension in your .ssh folder) using, for example, the command
+- To avoid retyping the password for each connection, generate an SSH key locally (if you don't have one already):
+    - Check if you already have an SSH key
+```bash
+# Execute this command locally
+ls ~/.ssh/*.pub
+```
 
 ```bash
+# Execute this command locally
 ssh-keygen -t rsa
 ```
 
 - Retrieve the content of the .pub file (public key) in the .ssh folder with
 
 ```bash
-cat nom_de_la_cle.pub
+# Execute this command locally
+cat <rsa_key_name>.pub
 ```
+where `<rsa_key_name>.pub` is the name of newly made key with `ssh-keygen`
 
-- Then create a .ssh/authorized_keys file and paste your key into it
+- Then, on a remote, create a .ssh/authorized_keys file and paste your key into it (the output of `cat`). This can be easily done using `nano`. Remember to save the file afterwards.
+```bash
+# Execute this command remotely 
+nano .ssh/authorized_keys
+```
 
 You can now connect by simply typing the command
 
@@ -31,7 +44,7 @@ You can now connect by simply typing the command
 ssh <login>@<machine_name>.imag.umontpellier.fr
 ```
 
-## Connection au remote
+## Remote connection from VSCode
 
 - Install the Remote-SSH extension on VSCode: a 'Remote Explorer' icon should appear below the extensions icon
 
